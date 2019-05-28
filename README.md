@@ -37,7 +37,7 @@ This is the code that moves down the tree as decisions are made. It gets each va
 
 ## Authors
 
-* **Billie Thompson** 
+* **Lucas Henderson and Jackson Jedlicka** 
 
 ## Acknowledgments
 

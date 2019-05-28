@@ -1,4 +1,4 @@
-# PheasantHuntGame
+# BrickBreakerGame
 Ap Comp Sci final project
 # Project Title and purpose
 

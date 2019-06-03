@@ -79,6 +79,8 @@ void draw() {
     fill (255,255,255);
     text("You Win!!", 250, 400);
   }
+
+  
   
   //brick collision
   for(int i = 0; i<myBricks.size(); i++){

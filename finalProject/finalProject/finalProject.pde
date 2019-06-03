@@ -84,7 +84,7 @@ void draw() {
     rect(230, 450, 260, 50);
     textSize(40);
     fill(255,0,0);
-    text("Play Again", 267, 485);
+    text("Play Again", 267, 485                                        );
   }
   
   //brick collision

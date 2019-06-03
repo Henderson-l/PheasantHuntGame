@@ -2,7 +2,8 @@
 Ap Comp Sci final project
 # We made the game Brick Breaker and the purpose is to entertain the user
 
-One Paragraph of project description goes here
+Brick Breaker was originally called Breakout and was created by Atari in 1976. In 2007, Brick Breaker was released. It was the first Breakout type game to be made for cellular devices, for it came out on the Blackberry. This renewed the interest in brick breaking games, and many have been created on cell phones since then. We based our project on the game Breakout. We re-created the classic game by coding the functions of the ball, paddle, and bricks in Processing.
+
 
 ### Difficulties or opportunities we encountered along the way.
 
@@ -33,6 +34,4 @@ This is the code that makes the ball bounce off of the bricks. We have a for loo
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* inspired by the game breakout
